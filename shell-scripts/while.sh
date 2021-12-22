@@ -7,3 +7,5 @@ while read -r line; do
 done < "$file"
 
 #adding a comment for testing
+
+#adding a third comment for testing
