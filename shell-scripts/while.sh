@@ -5,3 +5,5 @@ while read -r line; do
 		echo $line
 	fi
 done < "$file"
+
+#adding a comment for testing
